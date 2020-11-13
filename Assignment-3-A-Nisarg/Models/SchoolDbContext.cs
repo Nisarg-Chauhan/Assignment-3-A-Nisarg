@@ -4,6 +4,8 @@ using System.Linq;
 using System.Web;
 using MySql.Data.MySqlClient;
 
+
+
 namespace Assignment_3_A_Nisarg.Models
 {
     public class SchoolDbContext

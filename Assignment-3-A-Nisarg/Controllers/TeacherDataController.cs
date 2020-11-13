@@ -8,6 +8,12 @@ using System.Web.Http;
 using MySql.Data.MySqlClient;
 using System.Collections;
 
+/*Reference:
+Source: https://github.com/christinebittle/BlogProject_2/blob/master/BlogProject/Controllers/AuthorDataController.cs
+By: Professor Christine Bittle
+Date Accessed: 12/11/2020
+Used for: implementing find functionality*/
+
 namespace Assignment_3_A_Nisarg.Controllers
 {
     public class TeacherDataController : ApiController
